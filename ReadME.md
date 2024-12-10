@@ -1,3 +1,5 @@
+Botanic Panic
+
 Botanic Panic é um jogo de ação e aventura em que o protagonista, Finn, viaja para um planeta desconhecido com o objetivo de estudar a flora local. Ao chegar, ele descobre que nem todas as plantas são inofensivas. Muitas delas, na verdade, são hostis e atacam Finn de maneiras diversas. À medida que explora o planeta, Finn precisa se defender dessas plantas perigosas, enfrentando desafiadores combates e superando obstáculos. O jogo combina elementos de exploração, estratégia e ação, enquanto o protagonista tenta entender a misteriosa flora alienígena e sobreviver aos ataques das plantas que tentam impedi-lo de completar sua missão.
 
 ![391644289-a554acb2-2bee-455f-9a1b-a21b4a4cc8b1](https://github.com/user-attachments/assets/1a17dae4-2f82-4dd0-b2a1-6366fb5f8f3a)
